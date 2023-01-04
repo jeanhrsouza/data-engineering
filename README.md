@@ -7,8 +7,8 @@ Esse repositório tem como objetivo armazenar os cursos abordados na formação:
 </h4>
 
 ## Cursos
-- [x] [Linux I: conhecendo e utilizando o terminal](https://cursos.alura.com.br/course/linux-ubuntu)
-- [ ] [Linux II: programas, processos e pacotes](https://cursos.alura.com.br/course/linux-ubuntu-processos)
+- [x] [Linux I: conhecendo e utilizando o terminal (antigo)](https://cursos.alura.com.br/course/linux-ubuntu)
+- [] [Curso de Linux Onboarding: usando a CLI de uma forma rápida e prática](https://cursos.alura.com.br/course/linux-onboarding-utilizar-cli-forma-rapida-pratica)
 - [ ] [Python: começando com a linguagem](https://cursos.alura.com.br/course/python-introducao-a-linguagem)
 - [ ] [Python: avançando na linguagem](https://cursos.alura.com.br/course/python-3-avancando-na-linguagem)
 - [ ] [Engenharia de dados: conhecendo Apache Airflow](https://cursos.alura.com.br/course/engenharia-dados-apache-airflow)
