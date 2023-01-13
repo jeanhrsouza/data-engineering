@@ -64,7 +64,6 @@ def marca_chute_correto(chute, letras_acertadas, palavra_secreta):
         if (chute == letra):
             letras_acertadas[index] = letra
         index += 1
-    print(letras_acertadas)
 
 def desenha_forca(erros):
     print("  _______     ")
