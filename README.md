@@ -8,9 +8,10 @@ Esse repositório tem como objetivo armazenar os cursos abordados na formação:
 
 ## Cursos
 - [x] [Linux I: conhecendo e utilizando o terminal](https://cursos.alura.com.br/course/linux-ubuntu)
-- [ ] [Linux II: programas, processos e pacotes](https://cursos.alura.com.br/course/linux-ubuntu-processos)
-- [ ] [Python: começando com a linguagem](https://cursos.alura.com.br/course/python-introducao-a-linguagem)
-- [ ] [Python: avançando na linguagem](https://cursos.alura.com.br/course/python-3-avancando-na-linguagem)
+- [ ] [Linux Onboarding: usando a CLI de uma forma rápida e prática](https://cursos.alura.com.br/course/linux-onboarding-utilizar-cli-forma-rapida-pratica)
+- [ ] [Linux Onboarding: localizando arquivos e conteúdos](https://cursos.alura.com.br/course/linux-onboarding-arquivos-conteudos)
+- [x] [Python: começando com a linguagem](https://cursos.alura.com.br/course/python-introducao-a-linguagem)
+- [x] [Python: avançando na linguagem](https://cursos.alura.com.br/course/python-3-avancando-na-linguagem)
 - [ ] [Engenharia de dados: conhecendo Apache Airflow](https://cursos.alura.com.br/course/engenharia-dados-apache-airflow)
 - [ ] [Apache Beam: Data Pipeline com Python](https://cursos.alura.com.br/course/apache-beam-data-pipeline-python)
 - [ ] [PostgreSQL](https://cursos.alura.com.br/course/introducao-postgresql-primeiros-passos)
